@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#0bcf53"           # 기본 빨간색 대신 쓸 강조색 (예: 파란색)
+backgroundColor = "#FFFFFF"        # 메인 배경색
+secondaryBackgroundColor = "#F0F2F6" # 사이드바 배경색
+textColor = "#262730"              # 기본 글자색
